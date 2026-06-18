@@ -1,0 +1,96 @@
+Instructions for Hardware
+
+Requirements:
+    Arduino IDE (latest version)
+    ESP32 Development Board
+    USB Cable
+    Internet Connection (WiFi)
+2. Install the following libraries from Arduino Library Manager:
+   LiquidCrystal_I2C
+   OneWire
+   DallasTemperature
+   Adafruit_VL53L0X
+   MPU6050
+   ArduinoJson
+3. Built-in ESP32 libraries (no installation needed):
+   WiFi
+   HTTPClient
+   WebServer
+   Preferences
+   Wire
+4. Install ESP32 Board in Arduino IDE:
+   Go to:
+   File → Preferences
+   Add this URL:
+   https://dl.espressif.com/dl/package_esp32_index.json
+   Then go to:
+   Tools → Board → Boards Manager → Install ESP32
+5. Select Board:
+   Tools → Board → ESP32 Dev Module
+6. Configure WiFi:
+   Edit in code:
+
+   const char* ssid = "YOUR_WIFI_NAME";
+   const char* password = "YOUR_WIFI_PASSWORD";
+   4. Firebase Setup (Optional)
+   Enable Firebase:
+   const bool FIREBASE_ENABLED = true;
+   Set your Firebase URL:
+   String firebaseBase = "https://your-project.firebaseio.com/";
+   5. Upload Code
+   Click Upload (→) in Arduino IDE
+   6. Open Serial Monitor
+   Set baud rate to: (115200)
+   --------
+   **Notes
+   Make sure all sensors are connected correctly (MPU6050, VL53L0X, Ultrasonic)
+   First boot may take time for WiFi + NTP sync
+   If Firebase is disabled, data will only appear in Serial Monitor
+
+Instructions for Flutter
+
+Software Requirements:
+   Flutter SDK 3.x
+   Android Studio
+   Dart SDK
+   Firebase Project
+   Android Device (Android 8.0+)
+2. Install Dependencies:
+   flutter pub get
+3. Configure Firebase:
+   Create a Firebase project.
+   Add the Android application to Firebase.
+   Download google-services.json.
+   Place it in:
+   android/app/
+4. Configure ESP32:
+   Open the ESP32 firmware in Arduino IDE.
+   Update Wi-Fi credentials.
+   Upload the code to the ESP32 board.
+5. Run the Application:
+   flutter run
+6. Build APK
+   flutter build apk --release
+7. Verification
+8. Log in to the application.
+9. Connect the smart bottle to Wi-Fi.
+10. Confirm that water readings appear in Firebase Realtime Database.
+11. Verify that notifications are received correctly.
+
+Instructions for AI
+
+1. Install Python (version 3.10 or later) on your system.
+2. Install all required libraries from the requirements.txt file using:
+   pip install -r requirements.txt
+3. Launch Jupyter Notebook.
+4. Open the project notebook file (.ipynb) from the project directory.
+5. Run all cells in the notebook sequentially to:
+   Run all cells in the notebook sequentially to:
+   Load the dataset
+   Preprocess the data
+   Train the CatBoost model
+   Evaluate performance metrics
+6. Save the trained model using joblib
+
+
+
