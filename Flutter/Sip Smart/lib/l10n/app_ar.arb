@@ -1,0 +1,654 @@
+{
+
+  "@@locale": "ar",
+  "appName": "رشفه ذكيه",
+  "appSubtitle": "اشرب بذكاء",
+  "errorTitle": "خطأ",
+  "initializationFailed": "تعذر تهيئة التطبيق. يرجى التحقق من اتصالك بالإنترنت والمحاولة مرة أخرى.",
+  "retry": "إعادة المحاولة",
+
+  "skip": "تخطي",
+  "next": "التالي",
+  "getStarted": "ابدأ الآن",
+  "onboardingTitle1": "تتبع استهلاكك\nاليومي للمياه",
+  "onboardingDesc1": "تتبع دقيق ومتقدم لمراقبة مستويات الترطيب وتقدمك الصحي يومياً.",
+  "onboardingTitle2": "تنبيهات ذكية\nمخصصة لك",
+  "onboardingDesc2": "إشعارات معززة بالذكاء الاصطناعي تتكيف بذكاء مع أسلوب حياتك واحتياجات جسمك.",
+  "onboardingTitle3": "سهولة الاستخدام –\nاشرب، سجل، كرر",
+  "onboardingDesc3": "تجربة مستخدم سلسة. ضغطة واحدة للتسجيل، والنظام يتولى الباقي.",
+
+
+"signInSubtitle": "يرجى تسجيل الدخول للمتابعة",
+ "emailHint": "أدخل البريد الإلكتروني",
+"forgotPassword": "نسيت كلمة المرور؟",
+"orSignInWith": "أو سجل دخولك بواسطة",
+"signInWithGoogle": "تسجيل الدخول عبر جوجل",
+"googleSignInCancelled": "تم إلغاء تسجيل الدخول بواسطة المستخدم.",
+"noAccount": "ليس لديك حساب؟",
+"loginSuccess": "تم تسجيل الدخول بنجاح! مرحباً بك.",
+"googleSignInSuccess": "تم تسجيل الدخول بواسطة جوجل بنجاح!",
+"loginSuccess": "تم تسجيل الدخول بنجاح",
+  "loginFailed": "فشل تسجيل الدخول، حاول مرة أخرى",
+  "invalidEmail": "البريد الإلكتروني غير صحيح",
+  "wrongPassword": "كلمة المرور غير صحيحة",
+  "userNotFound": "لا يوجد مستخدم بهذا البريد",
+  "tooManyRequests": "محاولات كثيرة، حاول لاحقًا",
+  "googleSignInSuccess": "تم تسجيل الدخول عبر جوجل",
+  "googleSignInCancelled": "تم إلغاء تسجيل الدخول",
+  "somethingWentWrong": "حدث خطأ غير متوقع",
+
+  "registerTitle": "إنشاء حساب",
+  "registerSubtitle": "انضم إلينا لتتبع ترطيب جسمك",
+  "fullNameLabel": "الاسم الكامل",
+  "nameHint": "أدخل اسمك الكامل",
+  "passwordLabel": "كلمة المرور",
+  "passwordHint": "أدخل كلمة المرور",
+  "ageLabel": "العمر",
+  "ageHint": "مثال: 25",
+  "genderLabel": "الجنس",
+  "male": "ذكر",
+  "female": "أنثى",
+  "weightLabel": "الوزن (كجم)",
+  "weightHint": "مثال: 70",
+  "heightLabel": "الطول (سم)",
+  "heightHint": "مثال: 175",
+  "activityLevelLabel": "مستوى النشاط",
+  "activitySedentary": "خامل",
+  "activityLightly": "نشط قليلاً",
+  "activityModerately": "نشط متوسط",
+  "activityVery": "نشط جداً",
+  "countryLabel": "الدولة",
+  "countryHint": "أدخل دولتك",
+  "registerButton": "إنشاء الحساب",
+  "alreadyHaveAccount": "لديك حساب بالفعل؟",
+  "loginButton": "تسجيل الدخول",
+  "accountCreatedSuccess": "تم إنشاء الحساب بنجاح!",
+
+
+   "resetPasswordTitle": "استعادة كلمة المرور",
+  "backToLogin": "العودة لتسجيل الدخول",
+  "resetSubtitle": "أدخل بريدك الإلكتروني وسنرسل لك رابطاً آمناً لإعادة تعيين كلمة المرور",
+  "emailLabel": "البريد الإلكتروني",
+  "resetInfoNote": "سوف نرسل لك بريداً إلكترونياً يحتوي على تعليمات لاستعادة حسابك بشكل آمن.",
+  "sendResetLinkBtn": "إرسال رابط الاستعادة",
+  "rememberPasswordText": "هل تذكرت كلمة المرور؟",
+  "signInLink": "سجل دخولك",
+    "resetEmailSentSuccess": "تم إرسال رابط إعادة التعيين، يرجى التحقق من بريدك الإلكتروني",
+  "resetNoUserFound": "لا يوجد مستخدم بهذا البريد الإلكتروني",
+  "resetInvalidEmail": "عنوان البريد الإلكتروني غير صالح",
+  "resetGenericError": "حدث خطأ، حاول مرة أخرى",
+  "resetSomethingWentWrong": "حدث خطأ غير متوقع",
+
+  "sipSmart": "رشفه ذكيه ",
+
+  "navHome": "الرئيسية",
+  "navBottle": "الزجاجة",
+  "navHistory": "السجل",
+  "navSettings": "الإعدادات",
+  "navProfile": "الملف الشخصي",
+
+
+  "recentActivity": "النشاطات الأخيرة",
+  "noRecentActivity": "لا توجد سجلات حديثة",
+
+  
+  "welcomeBack": "مرحباً بعودتك،",
+  "user": "مستخدم",
+  "todaysProgress": "تقدم اليوم",
+
+  
+  "smartBottle": " البلوتوث",
+  "bottleConnected": "تم توصيل الزجاجة",
+  "searchingDevices": "جاري البحث عن أجهزة...",
+  "noDeviceConnected": "لا يوجد جهاز متصل",
+  "ensureBottleOn": "تأكد من تشغيل زجاجتك الذكية",
+  "connectBottleDesc": "قم بتوصيل زجاجة المياه الذكية لتتبع ترطيب جسمك",
+  "pairBottle": "ربط الزجاجة",
+  "disconnect": "قطع الاتصال",
+  "pleaseMakeSure": "يرجى التأكد من:",
+  "instructionBluetooth": "البلوتوث مفعل في هاتفك",
+  "instructionPowerOn": "الزجاجة الذكية قيد التشغيل",
+  "instructionProximity": "الزجاجة قريبة من هاتفك",
+  "enableBluetoothError": "يرجى تفعيل البلوتوث أولاً",
+  "connectedTo": "تم الاتصال بـ",
+  "successfully": "بنجاح",
+  "connectionFailed": "فشل الاتصال. تحقق من جهازك.",
+
+"bestDay": "أفضل يوم",
+  "lowestDay": "أقل يوم",
+  "weeklyAvg": "المعدل الأسبوعي",
+  "averagePerDay": "المعدل يومياً",
+  "goalRate": "نسبة الهدف",
+  "successRate": "نسبة النجاح",
+  "thisWeek": "هذا الأسبوع",
+  "monthlyTrend": "مؤشر الشهر",
+  "dailyGoal": "الهدف اليومي",
+  "avgConsumptionTrend": "مؤشر معدل الاستهلاك",
+
+
+  "navHistory": "السجل",
+  "profile": "الملف الشخصي",
+  "bestDay": "أفضل يوم",
+  "lowestDay": "أقل يوم",
+  "weeklyAvg": "المعدل الأسبوعي",
+  "averagePerDay": "المتوسط/يوم",
+  "goalRate": "نسبة الهدف",
+  "successRate": "نسبة النجاح",
+  "thisWeek": "إحصائيات الأسبوع",
+  "monthlyTrend": "مؤشر الشهر",
+  "dailyGoal": "الهدف اليومي",
+  "avgConsumptionTrend": "معدل الاستهلاك العام",
+  "age": "العمر",
+  "weight": "الوزن",
+  "height": "الطول",
+  "activity": "مستوى النشاط",
+  "gender": "الجنس",
+  "years": "سنة",
+  "kg": "كجم",
+  "cm": "سم",
+  "saveChanges": "حفظ التعديلات",
+  "editProfile": "تعديل الملف الشخصي",
+  "cancel": "إلغاء",
+  "logout": "تسجيل الخروج",
+  "areYouSure": "هل أنت متأكد؟",
+  "yes": "نعم",
+  "no": "لا",
+  "user": "مستخدم",
+  "noUserData": "لا توجد بيانات للمستخدم",
+  "male": "ذكر",
+  "female": "أنثى",
+
+
+  "settings": "الإعدادات",
+  "appearance": "المظهر",
+  "appearanceSub": "الوضع الفاتح أو الداكن",
+  "localization": "اللغة",
+  "localizationSub": "تغيير لغة التطبيق",
+  "privacyPolicy": "سياسة الخصوصية",
+  "privacySub": "اقرأ شروط الخصوصية",
+  "termsConditions": "الشروط والأحكام",
+  "termsSub": "شروط استخدام التطبيق",
+  "about": "حول التطبيق",
+  "aboutSub": "نسخة التطبيق والمعلومات",
+
+  "chooseTheme": "اختر مظهرك المفضل",
+  "lightMode": "الوضع الفاتح",
+  "lightModeSub": "سهل على العين أثناء النهار",
+  "darkMode": "الوضع الداكن",
+  "darkModeSub": "مثالي للبيئات المظلمة",
+
+  "selectLanguage": "اختر لغة التطبيق",
+
+
+  "validatorEmailEmpty": "البريد الإلكتروني مطلوب",
+  "validatorEmailInvalid": "يرجى إدخال بريد إلكتروني صحيح",
+  "validatorPasswordEmpty": "كلمة المرور مطلوبة",
+  "validatorPasswordShort": "يجب أن تكون كلمة المرور 6 أحرف على الأقل",
+  "validatorConfirmPasswordEmpty": "يرجى تأكيد كلمة المرور",
+  "validatorPasswordMismatch": "كلمات المرور غير متطابقة",
+  "validatorFieldRequired": "{fieldName} مطلوب",
+
+
+
+  
+  "howActiveAreYouToday": "ما مدى نشاطك اليوم؟",
+  "chooseActivityLevelMessage": "اختر مستوى نشاطك للحصول على توصية أدق.",
+
+  "low": "منخفض",
+  "medium": "متوسط",
+  "high": "مرتفع",
+
+  "enableLocationTitle": "تفعيل الموقع",
+  "enableLocationMessage": "اسمح بالوصول إلى الموقع للحصول على توصيات شرب مياه أدق بناءً على الطقس.",
+  "notNow": "ليس الآن",
+  "allowAccess": "السماح بالوصول",
+
+  "todaysProgress": "تقدم اليوم",
+  "progressPercent": "{percent}٪",
+  "@progressPercent": {
+    "placeholders": {
+      "percent": {}
+    }
+  },
+
+  "waterProgress": "{current} لتر / {goal} لتر",
+  "@waterProgress": {
+    "placeholders": {
+      "current": {},
+      "goal": {}
+    }
+  },
+
+  "recommendedToday": "الكمية المقترحة اليوم: {amount} لتر",
+  "@recommendedToday": {
+    "placeholders": {
+      "amount": {}
+    }
+  },
+
+  "usingSavedLocationMessage": "يتم استخدام آخر موقع محفوظ للحصول على حالة الطقس. فعّل الموقع للحصول على توصيات أدق.",
+  "usingSavedActivityMessage": "يتم استخدام آخر نشاط محفوظ. قم بتحديث نشاطك للحصول على توقع أدق.",
+  "hydrationPersonalized": "تم تخصيص توصيات شرب المياه لك بشكل أفضل.",
+
+
+
+"weather": "الطقس",
+"activityLabel": "النشاط",
+"activityLow": "منخفض",
+"activityMedium": "متوسط",
+"activityHigh": "عالي",
+
+
+  "bluetooth": "بلوتوث",
+    "wifi": "واي فاي",
+    "wifiTitle": "الاتصال بالواي فاي",
+    "networkConnected": "تم الاتصال بالشبكة",
+    "noNetworkConnected": "لا يوجد اتصال بالشبكة",
+    "searchingNetworks": "جاري البحث عن شبكات...",
+    "searchingDescription": "جاري البحث عن شبكات قريبة عالية السرعة...",
+    "wifiEnableCloud": "قم بتوصيل جهازك بالواي فاي لتفعيل المزامنة السحابية.",
+    "connectWifi": "اتصال بالواي فاي",
+    "disconnect": "قطع الاتصال",
+    "makeSure": "يرجى التأكد من:",
+    "wifiEnabledPhone": "تفعيل الواي فاي في هاتفك",
+    "wifiFrequency": "استخدام تردد شبكة 2.4 جيجاهرتز",
+    "routerRange": "الجهاز في نطاق الراوتر",
+
+
+      "chooseWifiNetwork": "اختار شبكة الواي فاي",
+  "selectWifiOrHidden": "اختار شبكة الواي فاي أو أضف شبكة مخفية",
+  "addHiddenNetwork": "إضافة شبكة مخفية",
+  "hiddenNetwork": "شبكة مخفية",
+  "wifiPassword": "كلمة مرور الواي فاي",
+  "wifiNameSsid": "اسم شبكة الواي فاي",
+  "password": "كلمة المرور",
+  "cancel": "إلغاء",
+  "connect": "اتصال",
+  "noNetworksFound": "لم يتم العثور على شبكات. اضغط تحديث للبحث مرة أخرى.",
+  "locationPermissionRequired": "يجب السماح بالموقع للبحث عن شبكات الواي فاي",
+  "cannotStartWifiScan": "لا يمكن بدء البحث عن شبكات الواي فاي",
+  "cannotGetWifiResults": "لا يمكن الحصول على نتائج الواي فاي",
+  "failedSendWifiCredentials": "فشل إرسال بيانات الواي فاي للزجاجة",
+  "cannotReachEsp": "لا يمكن الوصول للزجاجة. اتصل أولًا بشبكة SmartBottle_Setup",
+
+
+  "locationPermissionRequired": "يجب السماح بالموقع",
+  "cannotStartWifiScan": "لا يمكن بدء البحث عن شبكات الواي فاي",
+  "cannotGetWifiResults": "لا يمكن الحصول على نتائج الواي فاي",
+  "wrongWifiPassword": "كلمة مرور الواي فاي غير صحيحة",
+  "espConnectionFailed": "لا يمكن الاتصال بالزجاجة",
+  "wifiConnectionTimeout": "انتهى وقت الاتصال بالواي فاي",
+
+
+  
+  "recentActivity": "آخر النشاط",
+  "startDrinking": "ابدأ شرب المياه لتتبع الترطيب",
+  "live": "مباشر",
+  "drankWater": "شرب ماء",
+  "refill": "تعبئة",
+  "spilling": "انسكاب",
+  "noTime": "لا يوجد وقت",
+  "justNow": "منذ لحظات",
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  "profile": "الملف الشخصي",
+  "user": "مستخدم",
+  "age": "العمر",
+  "years": "سنة",
+  "weight": "الوزن",
+  "kg": "كجم",
+  "height": "الطول",
+  "cm": "سم",
+  "activity": "مستوى النشاط",
+  "activityLow": "منخفض",
+  "activityMedium": "متوسط",
+  "activityHigh": "مرتفع",
+  "gender": "الجنس",
+  "male": "ذكر",
+  "female": "أنثى",
+  "editProfile": "تعديل الملف الشخصي",
+  "saveChanges": "حفظ التعديلات",
+  "cancel": "إلغاء",
+  "fullNameHint": "الاسم بالكامل",
+  "logout": "تسجيل الخروج",
+  "areYouSure": "هل أنت متأكد أنك تريد تسجيل الخروج؟",
+  "yes": "نعم",
+  "no": "لا",
+  "noUserData": "لم يتم العثور على بيانات المستخدم",
+  "profileUpdatedSuccess": "تم حفظ التعديلات بنجاح",
+  "profileImageUpdatedSuccess": "تم تحديث الصورة الشخصية بنجاح",
+  "errorOccurred": "حدث خطأ غير متوقع",
+  "allFieldsRequired": "جميع الحقول مطلوبة",
+  "invalidAge": "برجاء إدخال عمر صحيح",
+  "invalidWeight": "برجاء إدخال وزن صحيح",
+  "invalidHeight": "برجاء إدخال طول صحيح",
+
+
+  "appSubtitle": "حافظ على ترطيبك، حافظ على صحتك",
+  "@appSubtitle": {
+    "description": "العنوان الفرعي للتطبيق"
+  },
+  "recentActivity": "النشاط الأخير",
+  "@recentActivity": {
+    "description": "عنوان قسم النشاط الأخير"
+  },
+  "live": "مباشر",
+  "@live": {
+    "description": "تسمية شارة مباشر"
+  },
+  "startDrinking": "ابدأ الشرب الآن!",
+  "@startDrinking": {
+    "description": "رسالة الحالة الفارغة للنشاط الأخير"
+  },
+  "drankWater": "شربت ماء",
+  "@drankWater": {
+    "description": "الحالة الافتراضية عندما لا توجد حالة محددة"
+  },
+  "noTime": "لا يوجد وقت",
+  "@noTime": {
+    "description": "نص بديل عند عدم توفر الوقت"
+  },
+  "justNow": "الآن",
+  "@justNow": {
+    "description": "تسمية الوقت للأنشطة التي حدثت للتو"
+  },
+  "minutesAgo": "منذ {minutes} دقيقة",
+  "@minutesAgo": {
+    "description": "تسمية الوقت للأنشطة التي حدثت منذ دقائق",
+    "placeholders": {
+      "minutes": {
+        "type": "int",
+        "example": "5"
+      }
+    }
+  },
+  "errorTitle": "خطأ",
+  "@errorTitle": {
+    "description": "عنوان حوار الخطأ"
+  },
+  "initializationFailed": "تعذر تهيئة التطبيق. يرجى التحقق من اتصالك والمحاولة مرة أخرى.",
+  "@initializationFailed": {
+    "description": "رسالة خطأ التهيئة"
+  },
+  "retry": "إعادة المحاولة",
+  "@retry": {
+    "description": "تسمية زر إعادة المحاولة"
+  },
+  "historyTitle": "سجل الشرب",
+  "@historyTitle": {
+    "description": "عنوان شاشة السجل"
+  },
+  "noHistory": "لا توجد قراءات بعد",
+  "@noHistory": {
+    "description": "رسالة الحالة الفارغة لشاشة السجل"
+  },
+  "mlUnit": "مل",
+  "@mlUnit": {
+    "description": "اختصار وحدة الملليلتر"
+  },
+  "dailyProgress": "تقدمك اليومي",
+  "@dailyProgress": {
+    "description": "عنوان قسم التقدم اليومي"
+  },
+  "locationDenied": "تم رفض صلاحية الموقع نهائياً. يرجى تمكينها من الإعدادات.",
+  "@locationDenied": {
+    "description": "رسالة عند رفض صلاحية الموقع نهائياً"
+  },
+  "settings": "الإعدادات",
+  "@settings": {
+    "description": "تسمية زر الإعدادات"
+  },
+  "spillingStatus": "انسكاب ماء",
+  "@spillingStatus": {
+    "description": "تسمية حالة انسكاب الماء"
+  },
+  "remainingWaterStatus": "ماء متبقي",
+  "@remainingWaterStatus": {
+    "description": "تسمية حالة الماء المتبقي"
+  },
+  "normalStatus": "طبيعي",
+  "@normalStatus": {
+    "description": "تسمية الحالة الطبيعية"
+  },
+  "left": "متبقي",
+  "@left": {
+    "description": "كلمة تدل على الكمية المتبقية"
+  },
+  "drankWaterDescription": "تم شرب الماء",
+  "@drankWaterDescription": {
+    "description": "وصف حالة شرب الماء"
+  },
+  "spillingDescription": "تم اكتشاف انسكاب",
+  "@spillingDescription": {
+    "description": "وصف حالة الانسكاب"
+  },
+  "remainingWaterDescription": "ماء متبقي في الزجاجة",
+  "@remainingWaterDescription": {
+    "description": "وصف حالة الماء المتبقي"
+  },
+  "normalDescription": "الحالة طبيعية",
+  "@normalDescription": {
+    "description": "وصف الحالة الطبيعية"
+  },
+  "unknownStatus": "حالة غير معروفة",
+  "@unknownStatus": {
+    "description": "نص بديل للحالة غير المعروفة"
+  },
+  "spillWarningTitle": "⚠️ تحذير",
+  "@spillWarningTitle": {
+    "description": "عنوان إشعار انسكاب الماء"
+  },
+  "spillWarningBody": "تم اكتشاف انسكاب ماء!",
+  "@spillWarningBody": {
+    "description": "نص إشعار انسكاب الماء"
+  },
+  "drinkGreatTitle": "💙 أحسنت!",
+  "@drinkGreatTitle": {
+    "description": "عنوان إشعار شرب الماء"
+  },
+  "drinkGreatBody": "لقد شربت {amount} مل من الماء",
+  "@drinkGreatBody": {
+    "description": "نص إشعار شرب الماء",
+    "placeholders": {
+      "amount": {
+        "type": "int",
+        "example": "250"
+      }
+    }
+  },
+  "lowWaterTitle": "🚰 ماء منخفض",
+  "@lowWaterTitle": {
+    "description": "عنوان إشعار انخفاض الماء"
+  },
+  "lowWaterBody": "يرجى إعادة ملء الزجاجة",
+  "@lowWaterBody": {
+    "description": "نص إشعار انخفاض الماء"
+  },
+  "reminderTitle": "💧 حافظ على ترطيبك",
+  "@reminderTitle": {
+    "description": "عنوان إشعار تذكير الترطيب"
+  },
+  "reminderBody": "لم تشرب ماء منذ {hours} ساعة",
+  "@reminderBody": {
+    "description": "نص إشعار تذكير الترطيب",
+    "placeholders": {
+      "hours": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "goalAchievedTitle": "🎉 أحسنت!",
+  "@goalAchievedTitle": {
+    "description": "عنوان إشعار تحقيق الهدف"
+  },
+  "goalAchievedBody": "لقد حققت هدفك اليومي البالغ {total} مل",
+  "@goalAchievedBody": {
+    "description": "نص إشعار تحقيق الهدف",
+    "placeholders": {
+      "total": {
+        "type": "int",
+        "example": "2000"
+      }
+    }
+  },
+
+  "minutesAgoSuffix": "دقيقة",
+
+
+
+  "@@locale": "ar",
+  "app_name": "سمارت سيب",
+  "app_tagline": "ترطيب ذكي لحياة أكثر صحة",
+  "about_title": "عن التطبيق",
+  "version_label": "الإصدار",
+  "version_value": "1.0.0",
+  "build_label": "البناء",
+  "build_value": "٢٠٢٦.٠٦.١٨",
+  "release_date_label": "تاريخ الإصدار",
+  "release_date_value": "١٨ يونيو ٢٠٢٦",
+  "size_label": "الحجم",
+  "size_value": "٢٤.٥ ميجابايت",
+  "key_features_title": "الميزات الرئيسية",
+  "feature_hydration": "ترطيب ذكي",
+  "feature_ai_reminders": "تذكيرات ذكية",
+  "feature_weather": "مزامنة الطقس",
+  "feature_bottle": "تتبع الزجاجة",
+  "feature_achievements": "الإنجازات",
+  "feature_statistics": "الإحصائيات",
+  "contact_us_title": "اتصل بنا",
+  "contact_email": "البريد الإلكتروني",
+  "contact_email_value": "support@smartsip.com",
+  "contact_website": "الموقع الإلكتروني",
+  "contact_website_value": "smartsip.com",
+  "contact_open_source": "مفتوح المصدر",
+  "contact_open_source_value": "github.com/smartsip",
+  "made_with_love": "صنع بحب ❤️",
+  "by_team": "بواسطة فريق سمارت سيب",
+  "copyright_text": "© ٢٠٢٦ سمارت سيب. جميع الحقوق محفوظة.",
+  "terms_title": "الشروط والأحكام",
+  "terms_last_updated": "آخر تحديث: ١٨ يونيو ٢٠٢٦",
+  "terms_welcome_title": "مرحباً بك في سمارت سيب",
+  "terms_welcome_content": "مرحباً بك في سمارت سيب، رفيقك الذكي للترطيب. باستخدامك للتطبيق، فإنك توافق على الالتزام بهذه الشروط والأحكام. يرجى قراءتها بعناية.",
+  "terms_acceptance_title": "قبول الشروط",
+  "terms_acceptance_content": "عند تنزيل أو تثبيت أو استخدام سمارت سيب، فإنك توافق على هذه الشروط. إذا كنت لا توافق، يرجى التوقف عن الاستخدام فوراً.",
+  "terms_data_collection_title": "جمع البيانات",
+  "terms_data_collection_content": "نجمع بعض البيانات لتحسين تجربتك وتقديم توصيات ترطيب مخصصة:",
+  "terms_data_bullet_1": "المعلومات الأساسية (العمر، الوزن، الطول، مستوى النشاط)",
+  "terms_data_bullet_2": "بيانات استهلاك الماء (عادات الشرب، الأنماط)",
+  "terms_data_bullet_3": "معلومات الجهاز (استخدام الزجاجة، بيانات الاتصال)",
+  "terms_data_bullet_4": "بيانات الموقع (لتكامل الطقس وتوصيات الترطيب)",
+  "terms_privacy_title": "سياسة الخصوصية",
+  "terms_privacy_content": "خصوصيتك مهمة بالنسبة لنا. جميع البيانات الشخصية مشفرة ومخزنة بشكل آمن في Firebase. نحن لا نبيع أو نشارك بياناتك مع أطراف ثالثة دون موافقتك الصريحة.",
+  "terms_responsibilities_title": "مسؤوليات المستخدم",
+  "terms_responsibilities_content": "كمستخدم لسمارت سيب، توافق على:",
+  "terms_responsibilities_bullet_1": "تقديم معلومات دقيقة وصحيحة",
+  "terms_responsibilities_bullet_2": "الحفاظ على أمان بيانات الدخول الخاصة بك",
+  "terms_responsibilities_bullet_3": "استخدام التطبيق بمسؤولية وليس لأغراض ضارة",
+  "terms_prohibited_title": "الأنشطة المحظورة",
+  "terms_prohibited_content": "الأنشطة التالية ممنوعة تماماً:",
+  "terms_prohibited_bullet_1": "الوصول غير المصرح به أو محاولات الاختراق",
+  "terms_prohibited_bullet_2": "إساءة استخدام ميزات التطبيق أو استغلالها",
+  "terms_prohibited_bullet_3": "مشاركة أو إعادة توزيع محتوى التطبيق دون إذن",
+  "terms_prohibited_bullet_4": "التدخل في وظائف أو خدمات التطبيق",
+  "terms_intellectual_title": "الملكية الفكرية",
+  "terms_intellectual_content": "جميع المحتويات والشعارات والتصاميم والميزات في سمارت سيب هي ملكية فكرية لسمارت سيب. قد يؤدي الاستخدام غير المصرح به لأي مواد إلى انتهاك قوانين حقوق النشر والعلامات التجارية.",
+  "terms_termination_title": "الإنهاء",
+  "terms_termination_content": "نحتفظ بالحق في إنهاء أو تعليق الوصول إلى التطبيق فوراً، دون إشعار مسبق، في حالة انتهاك هذه الشروط والأحكام.",
+  "terms_contact_title": "لديك أسئلة؟",
+  "terms_contact_content": "اتصل بفريق الدعم على support@smartsip.com",
+  "terms_footer": "باستخدام سمارت سيب، فإنك توافق على هذه الشروط والأحكام.",
+  "privacy_title": "سياسة الخصوصية",
+  "privacy_last_updated": "آخر تحديث: ١٨ يونيو ٢٠٢٦",
+  "privacy_introduction_title": "مقدمة",
+  "privacy_introduction_content": "تلتزم سمارت سيب بحماية خصوصيتك. توضح سياسة الخصوصية هذه كيفية جمعنا واستخدامنا وحماية معلوماتك الشخصية عند استخدامك للتطبيق.",
+  "privacy_collect_title": "المعلومات التي نجمعها",
+  "privacy_collect_content": "نجمع الأنواع التالية من المعلومات لتحسين تجربة الترطيب الخاصة بك:",
+  "privacy_collect_bullet_1": "المعلومات الشخصية: الاسم، البريد الإلكتروني، وتفاصيل الملف الشخصي",
+  "privacy_collect_bullet_2": "البيانات الصحية: العمر، الوزن، الطول، وأهداف الترطيب اليومية",
+  "privacy_collect_bullet_3": "بيانات الاستخدام: تفاعلات التطبيق، أنماط الشرب، والتفضيلات",
+  "privacy_collect_bullet_4": "بيانات الجهاز: طراز الزجاجة، حالة الاتصال، ومستوى البطارية",
+  "privacy_collect_bullet_5": "بيانات الموقع: المدينة ومعلومات الطقس لتقديم اقتراحات مخصصة",
+  "privacy_use_title": "كيف نستخدم معلوماتك",
+  "privacy_use_content": "نستخدم بياناتك للأغراض التالية:",
+  "privacy_use_bullet_1": "لتقديم توصيات ترطيب مخصصة",
+  "privacy_use_bullet_2": "لتتبع كمية الماء اليومية والتقدم",
+  "privacy_use_bullet_3": "لإرسال تذكيرات وإشعارات مدعومة بالذكاء الاصطناعي",
+  "privacy_use_bullet_4": "للتكامل مع بيانات الطقس لتقديم نصائح ترطيب ذكية",
+  "privacy_use_bullet_5": "لتحسين أداء التطبيق وتجربة المستخدم",
+  "privacy_use_bullet_6": "لتقديم دعم العملاء والمساعدة في الملاحظات",
+  "privacy_use_bullet_7": "لتحليل الاتجاهات وتعزيز الميزات",
+  "privacy_storage_title": "تخزين البيانات والأمان",
+  "privacy_storage_content": "جميع البيانات مخزنة بشكل آمن في Firebase Realtime Database مع تشفير أثناء التخزين. نطبق تدابير أمان على مستوى الصناعة للحماية من الوصول غير المصرح به أو فقدان البيانات أو إساءة الاستخدام.",
+  "privacy_sharing_title": "مشاركة البيانات",
+  "privacy_sharing_content": "نحن لا نبيع بياناتك لأطراف ثالثة. ومع ذلك، قد نشارك البيانات في الحالات التالية:",
+  "privacy_sharing_bullet_1": "بموافقتك الصريحة",
+  "privacy_sharing_bullet_2": "للامتثال للالتزامات القانونية",
+  "privacy_sharing_bullet_3": "لحماية حقوقنا وسلامتنا",
+  "privacy_sharing_bullet_4": "مع مقدمي الخدمات الموثوقين (مثل Firebase، واجهات برمجة تطبيقات الطقس)",
+  "privacy_sharing_bullet_5": "في شكل مجمع ومجهول المصدر لأغراض التحليلات",
+  "privacy_rights_title": "حقوقك",
+  "privacy_rights_content": "لديك الحقوق التالية فيما يتعلق ببياناتك الشخصية:",
+  "privacy_rights_bullet_1": "الوصول إلى بياناتك في أي وقت",
+  "privacy_rights_bullet_2": "طلب تصحيحات للمعلومات غير الدقيقة",
+  "privacy_rights_bullet_3": "حذف حسابك والبيانات المرتبطة به",
+  "privacy_rights_bullet_4": "الاعتراض على أو تقييد معالجة البيانات",
+  "privacy_rights_bullet_5": "تصدير بياناتك بتنسيق محمول",
+  "privacy_rights_bullet_6": "سحب الموافقة في أي وقت",
+  "privacy_third_party_title": "خدمات الطرف الثالث",
+  "privacy_third_party_content": "نتكامل مع خدمات الطرف الثالث بما في ذلك Firebase (تخزين البيانات)، وواجهات برمجة تطبيقات الطقس (بيانات الموقع)، وأدوات التحليلات لتحسين تطبيقنا. لهذه الخدمات سياسات خصوصية خاصة بها.",
+  "privacy_children_title": "خصوصية الأطفال",
+  "privacy_children_content": "سمارت سيب مخصص للمستخدمين من عمر ١٣ سنة فما فوق. نحن لا نجمع عن علم معلومات شخصية من الأطفال دون سن ١٣. إذا كنت تعتقد أننا جمعنا مثل هذه البيانات، يرجى الاتصال بنا.",
+  "privacy_cookies_title": "ملفات تعريف الارتباط والتتبع",
+  "privacy_cookies_content": "نستخدم الحد الأدنى من ملفات تعريف الارتباط والتخزين المحلي لتحسين أداء التطبيق وتذكر تفضيلاتك. يمكنك مسح هذه البيانات في أي وقت من إعدادات جهازك.",
+  "privacy_updates_title": "تحديثات السياسة",
+  "privacy_updates_content": "قد نقوم بتحديث سياسة الخصوصية هذه بشكل دوري. سنخطرك بأي تغييرات مهمة من خلال التطبيق أو عبر البريد الإلكتروني. الاستمرار في الاستخدام يعني قبول السياسة المحدثة.",
+  "privacy_contact_title": "اتصل بنا",
+  "privacy_contact_content": "إذا كان لديك أي أسئلة أو مخاوف بشأن ممارسات الخصوصية لدينا، اتصل بنا على privacy@smartsip.com",
+  "privacy_footer": "نحن نقدر خصوصيتك. شكراً لثقتك في سمارت سيب.",
+
+
+
+  "onboarding_complete_message": "🎉 رائع! كل شيء جاهز. خصص تجربة الترطيب الخاصة بك.",
+  "activity_skipped_message": "لقد تخطيت اختيار مستوى النشاط. يمكنك تحديثه لاحقاً في ملفك الشخصي.",
+  "location_skipped_message": "الوصول إلى الموقع يساعدنا في تقديم توصيات ترطيب تعتمد على الطقس. يمكنك تفعيله لاحقاً من الإعدادات.",
+  "both_skipped_message": "للحصول على أفضل تجربة، يرجى تفعيل الموقع واختيار مستوى النشاط. يمكنك فعل ذلك في أي وقت من الإعدادات.",
+    "notificationsTitle": "الإشعارات",
+  "noNotificationsTitle": "لا توجد إشعارات",
+  "noNotificationsSubtitle": "ستظهر هنا إشعارات تذكيرك بشرب الماء، وتنبيهات الانسكاب، وإنجازاتك اليومية."
+
+
+
+}
+
+
+
+
+
+
+

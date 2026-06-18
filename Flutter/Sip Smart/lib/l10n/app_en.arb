@@ -1,0 +1,636 @@
+
+{
+  "@@locale": "en",
+  "appName": "SipSmart",
+  "appSubtitle": "Hydrate Intelligently",
+  "errorTitle": "Error",
+  "initializationFailed": "Unable to initialize the app. Please check your connection and try again.",
+  "retry": "Retry",
+
+  "skip": "Skip",
+  "next": "Next",
+  "getStarted": "GET STARTED",
+  "onboardingTitle1": "Track your daily\nwater intake",
+  "onboardingDesc1": "Advanced precision tracking to monitor your hydration levels and health progress daily.",
+  "onboardingTitle2": "Smart Reminders\nTailored to You",
+  "onboardingDesc2": "AI-driven notifications that intelligently adapt to your lifestyle and body needs.",
+  "onboardingTitle3": "Easy to Use –\nDrink, Tap, Repeat",
+  "onboardingDesc3": "Seamless user experience. One tap to log, and the system handles the rest.",
+
+"welcomeBack": "Welcome Back!",
+"signInSubtitle": "Please sign in to continue",
+"emailHint": "example@gmail.com",
+"forgotPassword": "Forgot Password?",
+"loginButton": "LOGIN",
+"orSignInWith": "Or sign in with",
+"signInWithGoogle": "Sign in with Google",
+"googleSignInCancelled": "Google sign-in was canceled.",
+"noAccount": "Don't have an account?",
+"registerButton": "Register",
+"loginSuccess": "Logged in successfully! Welcome back.",
+"googleSignInSuccess": "Signed in with Google successfully!",
+  "loginSuccess": "Login successful",
+  "loginFailed": "Login failed. Please try again",
+  "invalidEmail": "Invalid email address",
+  "wrongPassword": "Wrong password",
+  "userNotFound": "No user found with this email",
+  "tooManyRequests": "Too many attempts. Try later",
+  "googleSignInSuccess": "Google sign-in successful",
+  "googleSignInCancelled": "Google sign-in cancelled",
+  "somethingWentWrong": "Something went wrong",
+
+
+  "registerTitle": "Create Account",
+  "registerSubtitle": "Join us to track your hydration",
+  "fullNameLabel": "Full Name",
+  "nameHint": "Enter your full name",
+  "passwordLabel": "Password",
+  "passwordHint": "Enter your password",
+  "ageLabel": "Age",
+  "ageHint": "e.g. 25",
+  "genderLabel": "Gender",
+  "male": "Male",
+  "female": "Female",
+  "weightLabel": "Weight (kg)",
+  "weightHint": "e.g. 70",
+  "heightLabel": "Height (cm)",
+  "heightHint": "e.g. 175",
+  "activityLevelLabel": "Activity Level",
+  "activitySedentary": "Sedentary",
+  "activityLightly": "Lightly Active",
+  "activityModerately": "Moderately Active",
+  "activityVery": "Very Active",
+  "countryLabel": "Country",
+  "countryHint": "Enter your country",
+  "registerButton": "Create Account",
+  "alreadyHaveAccount": "Already have an account?",
+  "loginButton": "Login",
+  "accountCreatedSuccess": "Account created successfully!",
+
+
+  
+ "resetPasswordTitle": "Reset Password",
+  "backToLogin": "Back to Login",
+  "resetSubtitle": "Enter your email and we'll send you a secure link to reset your password",
+  "emailLabel": "Email Address",
+  "emailHint": "example@gmail.com",
+  "resetInfoNote": "We'll send you an email with instructions to reset your password securely.",
+  "sendResetLinkBtn": "Send Reset Link",
+  "rememberPasswordText": "Remember your password?",
+  "signInLink": "Sign in",
+    "resetEmailSentSuccess": "Reset link sent! Please check your email.",
+  "resetNoUserFound": "No user found with this email.",
+  "resetInvalidEmail": "The email address is not valid.",
+  "resetGenericError": "An error occurred. Please try again.",
+  "resetSomethingWentWrong": "Something went wrong",
+
+
+  "sipSmart": "SipSmart",
+
+  "navHome": "Home",
+  "navBottle": "Bottle",
+  "navHistory": "History",
+  "navSettings": "Settings",
+  "navProfile": "Profile",
+  "recentActivity": "Recent Activity",
+  "noRecentActivity": "No recent records found",
+
+  "welcomeBack": "Welcome Back,",
+  "user": "User",
+  "todaysProgress": "Today's Progress",
+
+  "smartBottle": "Bluetooth Connection",
+  "bottleConnected": "Bottle Connected",
+  "searchingDevices": "Searching for devices...",
+  "noDeviceConnected": "No Device Connected",
+  "ensureBottleOn": "Ensure your smart bottle is powered on",
+  "connectBottleDesc": "Connect your smart water bottle to track your hydration",
+  "pairBottle": "Pair Bottle",
+  "disconnect": "Disconnect",
+  "pleaseMakeSure": "Please make sure:",
+  "instructionBluetooth": "Bluetooth is enabled on your phone",
+  "instructionPowerOn": "Your smart bottle is turned on",
+  "instructionProximity": "The bottle is close to your phone",
+  "enableBluetoothError": "Please enable Bluetooth first",
+  "connectedTo": "Connected to",
+  "successfully": "Successfully",
+  "connectionFailed": "Connection failed. Check your device.",
+
+  "bestDay": "Best Day",
+  "lowestDay": "Lowest Day",
+  "weeklyAvg": "Weekly Avg",
+  "averagePerDay": "Average/Day",
+  "goalRate": "Goal Rate",
+  "successRate": "Success Rate",
+  "thisWeek": "This Week",
+  "monthlyTrend": "Monthly Trend",
+  "dailyGoal": "Daily Goal",
+  "avgConsumptionTrend": "Average consumption trend",
+
+
+  
+  "navHistory": "History",
+  "profile": "Profile",
+  "bestDay": "Best Day",
+  "lowestDay": "Lowest Day",
+  "weeklyAvg": "Weekly Avg",
+  "averagePerDay": "Average/Day",
+  "goalRate": "Goal Rate",
+  "successRate": "Success Rate",
+  "thisWeek": "This Week",
+  "monthlyTrend": "Monthly Trend",
+  "dailyGoal": "Daily Goal",
+  "avgConsumptionTrend": "Average Consumption Trend",
+  "age": "Age",
+  "weight": "Weight",
+  "height": "Height",
+  "activity": "Activity Level",
+  "gender": "Gender",
+  "years": "years",
+  "kg": "kg",
+  "cm": "cm",
+  "saveChanges": "Save Changes",
+  "editProfile": "Edit Profile",
+  "cancel": "Cancel",
+  "logout": "Logout",
+  "areYouSure": "Are you sure?",
+  "yes": "Yes",
+  "no": "No",
+  "user": "User",
+  "noUserData": "No User Data Found",
+  "male": "Male",
+  "female": "Female",
+
+  "settings": "Settings",
+  "appearance": "Appearance",
+  "appearanceSub": "Light or dark mode",
+  "localization": "Localization",
+  "localizationSub": "Change app language",
+  "privacyPolicy": "Privacy Policy",
+  "privacySub": "Read our privacy terms",
+  "termsConditions": "Terms & Conditions",
+  "termsSub": "App usage terms",
+  "about": "About",
+  "aboutSub": "App version & info",
+
+
+  "chooseTheme": "Choose your preferred theme",
+  "lightMode": "Light Mode",
+  "lightModeSub": "Easy on the eyes during the day",
+  "darkMode": "Dark Mode",
+  "darkModeSub": "Perfect for low-light environments",
+
+  "selectLanguage": "Select App Language",
+
+
+  "validatorEmailEmpty":"Email address is required",
+  "validatorEmailInvalid": "Please enter a valid email address",
+  "validatorPasswordEmpty": "Password is required",
+  "validatorPasswordShort": "Password must be at least 6 characters",
+  "validatorConfirmPasswordEmpty": "Please confirm your password",
+  "validatorPasswordMismatch": "Passwords do not match",
+  "validatorFieldRequired": "{fieldName} is required",
+
+
+  
+
+  "howActiveAreYouToday": "How active are you today?",
+  "chooseActivityLevelMessage": "Choose your activity level for a more accurate recommendation.",
+
+  "low": "Low",
+  "medium": "Medium",
+  "high": "High",
+
+  "enableLocationTitle": "Enable Location",
+  "enableLocationMessage": "Allow location access to get more accurate weather-based hydration recommendations.",
+  "notNow": "Not now",
+  "allowAccess": "Allow Access",
+
+"todaysProgress": "Today's Progress",
+  "progressPercent": "{percent}%",
+  "@progressPercent": {
+    "placeholders": {
+      "percent": {}
+    }
+  },
+
+  "waterProgress": "{current}L / {goal}L",
+  "@waterProgress": {
+    "placeholders": {
+      "current": {},
+      "goal": {}
+    }
+  },
+
+  "recommendedToday": "Recommended today: {amount}L",
+  "@recommendedToday": {
+    "placeholders": {
+      "amount": {}
+    }
+  },
+
+  "usingSavedLocationMessage": "Using your last saved location for weather updates. Enable location access for more accurate recommendations.",
+  "usingSavedActivityMessage": "We’re using your last saved activity. Update it for better accuracy.",
+  "hydrationPersonalized": "Your hydration recommendation is now more personalized.",
+
+
+"weather": "Weather",
+"activityLabel": "Activity",
+"activityLow": "Low",
+"activityMedium": "Medium",
+"activityHigh": "High",
+
+
+  "bluetooth": "Bluetooth",
+    "wifi": "WiFi",
+    "wifiTitle": "WiFi Connection",
+    "networkConnected": "Network Connected",
+    "noNetworkConnected": "No Network Connected",
+    "searchingNetworks": "Searching for Networks...",
+    "searchingDescription": "Searching for nearby high-speed networks...",
+    "wifiEnableCloud": "Connect your device to WiFi to enable cloud syncing.",
+    "connectWifi": "Connect to WiFi",
+    "disconnect": "Disconnect",
+    "makeSure": "Please make sure:",
+    "wifiEnabledPhone": "WiFi is enabled on your phone",
+    "wifiFrequency": "Using a 2.4GHz network frequency",
+    "routerRange": "Device is within router range",
+
+    
+
+      "chooseWifiNetwork": "Choose WiFi Network",
+  "selectWifiOrHidden": "Select your WiFi network or add hidden network",
+  "addHiddenNetwork": "Add Hidden Network",
+  "hiddenNetwork": "Hidden Network",
+  "wifiPassword": "WiFi Password",
+  "wifiNameSsid": "WiFi Name (SSID)",
+  "password": "Password",
+  "cancel": "Cancel",
+  "connect": "Connect",
+  "noNetworksFound": "No networks found. Tap refresh to scan again.",
+  "locationPermissionRequired": "Location permission is required",
+  "cannotStartWifiScan": "Cannot start WiFi scan",
+  "cannotGetWifiResults": "Cannot get WiFi results",
+  "failedSendWifiCredentials": "Failed to send WiFi credentials to ESP",
+  "cannotReachEsp": "Cannot reach ESP. Connect phone to SmartBottle_Setup first",
+
+    "locationPermissionRequired": "Location permission is required",
+  "cannotStartWifiScan": "Cannot start WiFi scan",
+  "cannotGetWifiResults": "Cannot get WiFi results",
+  "wrongWifiPassword": "Wrong WiFi password",
+  "espConnectionFailed": "Cannot connect to ESP device",
+  "wifiConnectionTimeout": "WiFi connection timed out",
+
+    "locationPermissionRequired": "Location permission is required",
+  "cannotStartWifiScan": "Cannot start WiFi scan",
+  "cannotGetWifiResults": "Cannot get WiFi results",
+  "wrongWifiPassword": "Wrong WiFi password",
+  "espConnectionFailed": "Cannot connect to ESP device",
+  "wifiConnectionTimeout": "WiFi connection timed out",
+
+
+  
+  "recentActivity": "Recent Activity",
+  "startDrinking": "Start drinking to track your hydration",
+  "live": "Live",
+  "drankWater": "Drank water",
+  "refill": "Refill",
+  "spilling": "Spilling",
+  "noTime": "No time",
+  "justNow": "Just now",
+
+
+
+
+
+
+  
+
+
+
+
+
+  "profile": "Profile",
+  "user": "User",
+  "age": "Age",
+  "years": "years",
+  "weight": "Weight",
+  "kg": "kg",
+  "height": "Height",
+  "cm": "cm",
+  "activity": "Activity Level",
+  "activityLow": "Low",
+  "activityMedium": "Medium",
+  "activityHigh": "High",
+  "gender": "Gender",
+  "male": "Male",
+  "female": "Female",
+  "editProfile": "Edit Profile",
+  "saveChanges": "Save Changes",
+  "cancel": "Cancel",
+  "fullNameHint": "Full Name",
+  "logout": "Logout",
+  "areYouSure": "Are you sure you want to logout?",
+  "yes": "Yes",
+  "no": "No",
+  "noUserData": "No user data found",
+  "profileUpdatedSuccess": "Profile changes saved successfully",
+  "profileImageUpdatedSuccess": "Profile image updated successfully",
+  "errorOccurred": "An error occurred",
+  "allFieldsRequired": "All fields are required",
+  "invalidAge": "Please enter a valid age",
+  "invalidWeight": "Please enter a valid weight",
+  "invalidHeight": "Please enter a valid height",
+
+  "appSubtitle": "Stay Hydrated, Stay Healthy",
+  "@appSubtitle": {
+    "description": "Subtitle of the application"
+  },
+  "recentActivity": "Recent Activity",
+  "@recentActivity": {
+    "description": "Title for recent activity section"
+  },
+  "live": "Live",
+  "@live": {
+    "description": "Live badge label"
+  },
+  "startDrinking": "Start Drinking Now!",
+  "@startDrinking": {
+    "description": "Empty state message for recent activity"
+  },
+  "drankWater": "Drank water",
+  "@drankWater": {
+    "description": "Default status when no status is provided"
+  },
+  "noTime": "No time",
+  "@noTime": {
+    "description": "Fallback when time is not available"
+  },
+  "justNow": "Just now",
+  "@justNow": {
+    "description": "Time label for activities that just happened"
+  },
+  "minutesAgo": "{minutes} min ago",
+  "@minutesAgo": {
+    "description": "Time label for activities that happened minutes ago",
+    "placeholders": {
+      "minutes": {
+        "type": "int",
+        "example": "5"
+      }
+    }
+  },
+  "errorTitle": "Error",
+  "@errorTitle": {
+    "description": "Title for error dialog"
+  },
+  "initializationFailed": "Unable to initialize the app. Please check your connection and try again.",
+  "@initializationFailed": {
+    "description": "Message for initialization error"
+  },
+  "retry": "Retry",
+  "@retry": {
+    "description": "Retry button label"
+  },
+  "historyTitle": "Drinking History",
+  "@historyTitle": {
+    "description": "Title for history screen"
+  },
+  "noHistory": "No readings yet",
+  "@noHistory": {
+    "description": "Empty state message for history screen"
+  },
+  "mlUnit": "ml",
+  "@mlUnit": {
+    "description": "Milliliter unit abbreviation"
+  },
+  "dailyProgress": "Daily Progress",
+  "@dailyProgress": {
+    "description": "Title for daily progress section"
+  },
+  "locationDenied": "Location permission is permanently denied. Please enable it from settings.",
+  "@locationDenied": {
+    "description": "Message when location permission is permanently denied"
+  },
+  "settings": "Settings",
+  "@settings": {
+    "description": "Settings button label"
+  },
+  "spillingStatus": "Spilling",
+  "@spillingStatus": {
+    "description": "Status label for water spill"
+  },
+  "remainingWaterStatus": "Remaining Water",
+  "@remainingWaterStatus": {
+    "description": "Status label for remaining water"
+  },
+  "normalStatus": "Normal",
+  "@normalStatus": {
+    "description": "Status label for normal state"
+  },
+  "left": "left",
+  "@left": {
+    "description": "Word used to indicate remaining amount"
+  },
+  "drankWaterDescription": "Water consumed",
+  "@drankWaterDescription": {
+    "description": "Description for drank water status"
+  },
+  "spillingDescription": "Spill detected",
+  "@spillingDescription": {
+    "description": "Description for spilling status"
+  },
+  "remainingWaterDescription": "Water remaining in bottle",
+  "@remainingWaterDescription": {
+    "description": "Description for remaining water status"
+  },
+  "normalDescription": "Normal state",
+  "@normalDescription": {
+    "description": "Description for normal status"
+  },
+  "unknownStatus": "Unknown status",
+  "@unknownStatus": {
+    "description": "Fallback for unknown status"
+  },
+  "spillWarningTitle": "⚠️ Warning",
+  "@spillWarningTitle": {
+    "description": "Notification title for water spill"
+  },
+  "spillWarningBody": "Water spill detected!",
+  "@spillWarningBody": {
+    "description": "Notification body for water spill"
+  },
+  "drinkGreatTitle": "💙 Great Job!",
+  "@drinkGreatTitle": {
+    "description": "Notification title for drinking water"
+  },
+  "drinkGreatBody": "You drank {amount} ml water",
+  "@drinkGreatBody": {
+    "description": "Notification body for drinking water",
+    "placeholders": {
+      "amount": {
+        "type": "int",
+        "example": "250"
+      }
+    }
+  },
+  "lowWaterTitle": "🚰 Low Water",
+  "@lowWaterTitle": {
+    "description": "Notification title for low water"
+  },
+  "lowWaterBody": "Please refill your bottle",
+  "@lowWaterBody": {
+    "description": "Notification body for low water"
+  },
+  "reminderTitle": "💧 Stay Hydrated",
+  "@reminderTitle": {
+    "description": "Notification title for hydration reminder"
+  },
+  "reminderBody": "You haven't drunk water for {hours} hours",
+  "@reminderBody": {
+    "description": "Notification body for hydration reminder",
+    "placeholders": {
+      "hours": {
+        "type": "int",
+        "example": "2"
+      }
+    }
+  },
+  "goalAchievedTitle": "🎉 Well Done!",
+  "@goalAchievedTitle": {
+    "description": "Notification title for goal achieved"
+  },
+  "goalAchievedBody": "You reached your daily goal of {total} ml",
+  "@goalAchievedBody": {
+    "description": "Notification body for goal achieved",
+    "placeholders": {
+      "total": {
+        "type": "int",
+        "example": "2000"
+      }
+    }
+  },
+    "minutesAgoSuffix": "min ago",
+
+
+  
+  "@@locale": "en",
+  "app_name": "Smart Sip",
+  "app_tagline": "Smart Hydration for a Healthier Life",
+  "about_title": "About",
+  "version_label": "Version",
+  "version_value": "1.0.0",
+  "build_label": "Build",
+  "build_value": "2026.06.18",
+  "release_date_label": "Release Date",
+  "release_date_value": "June 18, 2026",
+  "size_label": "Size",
+  "size_value": "24.5 MB",
+  "key_features_title": "Key Features",
+  "feature_hydration": "Smart Hydration",
+  "feature_ai_reminders": "AI Reminders",
+  "feature_weather": "Weather Sync",
+  "feature_bottle": "Bottle Tracking",
+  "feature_achievements": "Achievements",
+  "feature_statistics": "Statistics",
+  "contact_us_title": "Contact Us",
+  "contact_email": "Email",
+  "contact_email_value": "support@smartsip.com",
+  "contact_website": "Website",
+  "contact_website_value": "smartsip.com",
+  "contact_open_source": "Open Source",
+  "contact_open_source_value": "github.com/smartsip",
+  "made_with_love": "Made with ❤️",
+  "by_team": "by Smart Sip Team",
+  "copyright_text": "© 2026 Smart Sip. All rights reserved.",
+  "terms_title": "Terms & Conditions",
+  "terms_last_updated": "Last Updated: June 18, 2026",
+  "terms_welcome_title": "Welcome to Smart Sip",
+  "terms_welcome_content": "Welcome to Smart Sip, your intelligent hydration companion. By using our app, you agree to be bound by these Terms & Conditions. Please read them carefully.",
+  "terms_acceptance_title": "Acceptance of Terms",
+  "terms_acceptance_content": "By downloading, installing, or using Smart Sip, you agree to these terms. If you do not agree, please discontinue use immediately.",
+  "terms_data_collection_title": "Data Collection",
+  "terms_data_collection_content": "We collect certain data to improve your experience and provide personalized hydration recommendations:",
+  "terms_data_bullet_1": "Basic profile information (age, weight, height, activity level)",
+  "terms_data_bullet_2": "Hydration consumption data (drinking habits, patterns)",
+  "terms_data_bullet_3": "Device information (bottle usage, connection data)",
+  "terms_data_bullet_4": "Location data (for weather integration and hydration suggestions)",
+  "terms_privacy_title": "Privacy Policy",
+  "terms_privacy_content": "Your privacy is important to us. All personal data is encrypted and stored securely in Firebase. We do not sell or share your data with third parties without your explicit consent.",
+  "terms_responsibilities_title": "User Responsibilities",
+  "terms_responsibilities_content": "As a user of Smart Sip, you agree to:",
+  "terms_responsibilities_bullet_1": "Provide accurate and truthful information",
+  "terms_responsibilities_bullet_2": "Keep your login credentials secure",
+  "terms_responsibilities_bullet_3": "Use the app responsibly and not for harmful purposes",
+  "terms_prohibited_title": "Prohibited Activities",
+  "terms_prohibited_content": "The following activities are strictly prohibited:",
+  "terms_prohibited_bullet_1": "Unauthorized access or hacking attempts",
+  "terms_prohibited_bullet_2": "Misusing or exploiting app features",
+  "terms_prohibited_bullet_3": "Sharing or redistributing app content without permission",
+  "terms_prohibited_bullet_4": "Interfering with app functionality or services",
+  "terms_intellectual_title": "Intellectual Property",
+  "terms_intellectual_content": "All content, logos, designs, and features of Smart Sip are the intellectual property of Smart Sip. Unauthorized use of any materials may violate copyright and trademark laws.",
+  "terms_termination_title": "Termination",
+  "terms_termination_content": "We reserve the right to terminate or suspend access to our app immediately, without prior notice, for any violation of these Terms & Conditions.",
+  "terms_contact_title": "Have Questions?",
+  "terms_contact_content": "Contact our support team at support@smartsip.com",
+  "terms_footer": "By using Smart Sip, you agree to these Terms & Conditions.",
+  "privacy_title": "Privacy Policy",
+  "privacy_last_updated": "Last Updated: June 18, 2026",
+  "privacy_introduction_title": "Introduction",
+  "privacy_introduction_content": "Smart Sip is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your personal information when you use our app.",
+  "privacy_collect_title": "Information We Collect",
+  "privacy_collect_content": "We collect the following types of information to improve your hydration experience:",
+  "privacy_collect_bullet_1": "Personal information: name, email address, and profile details",
+  "privacy_collect_bullet_2": "Health data: age, weight, height, and daily hydration goals",
+  "privacy_collect_bullet_3": "Usage data: app interactions, drinking patterns, and preferences",
+  "privacy_collect_bullet_4": "Device data: bottle model, connection status, and battery level",
+  "privacy_collect_bullet_5": "Location data: city and weather information for personalized suggestions",
+  "privacy_use_title": "How We Use Your Information",
+  "privacy_use_content": "We use your data for the following purposes:",
+  "privacy_use_bullet_1": "To provide personalized hydration recommendations",
+  "privacy_use_bullet_2": "To track your daily water intake and progress",
+  "privacy_use_bullet_3": "To send AI-powered reminders and notifications",
+  "privacy_use_bullet_4": "To integrate with weather data for smart hydration tips",
+  "privacy_use_bullet_5": "To improve app performance and user experience",
+  "privacy_use_bullet_6": "To provide customer support and feedback assistance",
+  "privacy_use_bullet_7": "To analyze trends and enhance features",
+  "privacy_storage_title": "Data Storage & Security",
+  "privacy_storage_content": "All data is stored securely in Firebase Realtime Database with encryption at rest. We implement industry-standard security measures to protect against unauthorized access, data loss, or misuse.",
+  "privacy_sharing_title": "Data Sharing",
+  "privacy_sharing_content": "We do not sell your data to third parties. However, we may share data in the following cases:",
+  "privacy_sharing_bullet_1": "With your explicit consent",
+  "privacy_sharing_bullet_2": "To comply with legal obligations",
+  "privacy_sharing_bullet_3": "To protect our rights and safety",
+  "privacy_sharing_bullet_4": "With trusted service providers (e.g., Firebase, weather APIs)",
+  "privacy_sharing_bullet_5": "In aggregated, anonymized form for analytics",
+  "privacy_rights_title": "Your Rights",
+  "privacy_rights_content": "You have the following rights regarding your personal data:",
+  "privacy_rights_bullet_1": "Access your data at any time",
+  "privacy_rights_bullet_2": "Request corrections to inaccurate information",
+  "privacy_rights_bullet_3": "Delete your account and associated data",
+  "privacy_rights_bullet_4": "Object to or restrict data processing",
+  "privacy_rights_bullet_5": "Export your data in a portable format",
+  "privacy_rights_bullet_6": "Withdraw consent at any time",
+  "privacy_third_party_title": "Third-Party Services",
+  "privacy_third_party_content": "We integrate with third-party services including Firebase (data storage), weather APIs (location data), and analytics tools to improve our app. These services have their own privacy policies.",
+  "privacy_children_title": "Children's Privacy",
+  "privacy_children_content": "Smart Sip is intended for users aged 13 and above. We do not knowingly collect personal information from children under 13. If you believe we have collected such data, please contact us.",
+  "privacy_cookies_title": "Cookies & Tracking",
+  "privacy_cookies_content": "We use minimal cookies and local storage to improve app performance and remember your preferences. You can clear this data at any time from your device settings.",
+  "privacy_updates_title": "Policy Updates",
+  "privacy_updates_content": "We may update this Privacy Policy periodically. We will notify you of any significant changes through the app or via email. Continued use constitutes acceptance of the updated policy.",
+  "privacy_contact_title": "Contact Us",
+  "privacy_contact_content": "If you have any questions or concerns about our privacy practices, contact us at privacy@smartsip.com",
+  "privacy_footer": "We value your privacy. Thank you for trusting Smart Sip.",
+   
+  "onboarding_complete_message": "🎉 Great! You're all set. Customize your hydration experience.",
+  "activity_skipped_message": "You skipped selecting your activity level. You can update it later in your profile.",
+  "location_skipped_message": "Location access helps us suggest weather-based hydration. You can enable it later in settings.",
+  "both_skipped_message": "For the best experience, please enable location and select your activity level. You can do this anytime in settings.",
+
+  "notificationsTitle": "Notifications",
+  "noNotificationsTitle": "No Notifications",
+  "noNotificationsSubtitle": "Hydration reminders, spill alerts, and daily achievements will appear here."
+
+}

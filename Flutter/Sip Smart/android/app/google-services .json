@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "323974394798",
+    "project_id": "graduation-project-d3f62",
+    "storage_bucket": "graduation-project-d3f62.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323974394798:android:161982ce89c2508e5b8e3f",
+        "android_client_info": {
+          "package_name": "com.example.gradution_project_smart_sip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323974394798-jhf0ek97f1cnq0mkeunjrmbpj5n7i5ap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfDsEGWdO2GZEKudZPcR5zj_lb7leq90E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323974394798-jhf0ek97f1cnq0mkeunjrmbpj5n7i5ap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
